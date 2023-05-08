@@ -1,0 +1,4 @@
+Date: 20:23:53, User Name: Rami, User ID: 26, User Role: Emergency Responder, Building Code: Idirurevoluptasip, Room Floor: 5, Access was granted ? YES
+Date: 20:23:54, User Name: Rami, User ID: 26, User Role: Emergency Responder, Building Code: Idirurevoluptasip, Room Floor: 5, Access was granted ? YES
+Date: 20:24:37, User Name: qameqe, User ID: 2, User Role: Contract Cleaner, Building Code: Voluptasipsadove, Room Floor: 7, Access was granted ? NO
+Date: 20:24:37, User Name: qameqe, User ID: 2, User Role: Contract Cleaner, Building Code: Voluptasipsadove, Room Floor: 7, Access was granted ? NO

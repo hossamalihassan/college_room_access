@@ -1,0 +1,17 @@
+Date: 2023-01-13 12:46:50, User Name: cujedu, User ID: 8, User Role: Contract Cleaner, Building Code: Voluptasipsadove, Room Floor: 7, Access was granted ? NO
+Date: 2023-01-13 12:47:31, User Name: cujedu, User ID: 8, User Role: Contract Cleaner, Building Code: Voluptasipsadove, Room Floor: 7, Access was granted ? NO
+Date: 2023-01-13 12:47:41, User Name: cujedu, User ID: 8, User Role: Contract Cleaner, Building Code: Idirurevoluptasip, Room Floor: 20, Access was granted ? NO
+Date: 2023-01-13 12:47:46, User Name: dydilylo, User ID: 1, User Role: Student, Building Code: Voluptasipsadove, Room Floor: 7, Access was granted ? NO
+Date: 2023-01-13 12:48:00, User Name: dydilylo, User ID: 1, User Role: Student, Building Code: Idirurevoluptasip, Room Floor: 20, Access was granted ? YES
+Date: 13:01:23, User Name: dydilylo, User ID: 1, User Role: Student, Building Code: Idirurevoluptasip, Room Floor: 20, Access was granted ? NO
+Date: 13:17:46, User Name: pavibifat, User ID: 11, User Role: Student, Building Code: RTY, Room Floor: 3, Access was granted ? NO
+Date: 13:20:01, User Name: wixuledy, User ID: 13, User Role: Visitor / Guest, Building Code: Quibusdammodiquoa, Room Floor: 2, Access was granted ? YES
+Date: 13:20:16, User Name: dydilylo, User ID: 1, User Role: Student, Building Code: Quibusdammodiquoa, Room Floor: 2, Access was granted ? NO
+Date: 13:21:53, User Name: dydilylo, User ID: 1, User Role: Student, Building Code: Quibusdammodiquoa, Room Floor: 2, Access was granted ? NO
+Date: 13:22:31, User Name: dydilylo, User ID: 1, User Role: Student, Building Code: Quibusdammodiquoa, Room Floor: 2, Access was granted ? NO
+Date: 13:22:46, User Name: luromic, User ID: 24, User Role: Student, Building Code: RTY, Room Floor: 3, Access was granted ? NO
+Date: 15:32:02, User Name: Rami, User ID: 26, User Role: Emergency Responder, Building Code: Idirurevoluptasip, Room Floor: 2, Access was granted ? NO
+Date: 15:32:36, User Name: Rami, User ID: 26, User Role: Emergency Responder, Building Code: Voluptasipsadove, Room Floor: 7, Access was granted ? YES
+Date: 15:32:51, User Name: Rami, User ID: 26, User Role: Emergency Responder, Building Code: Idirurevoluptasip, Room Floor: 2, Access was granted ? YES
+Date: 15:45:44, User Name: vinivixiq, User ID: 17, User Role: Contract Cleaner, Building Code: Aliaseiusmodipsa, Room Floor: 9, Access was granted ? NO
+Date: 19:18:08, User Name: vinivixiq, User ID: 17, User Role: Contract Cleaner, Building Code: Aliaseiusmodipsa, Room Floor: 9, Access was granted ? YES
